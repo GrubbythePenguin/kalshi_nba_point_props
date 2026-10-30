@@ -1,0 +1,3406 @@
+[
+ {
+  "id": "401902644",
+  "date_utc": "2026-10-03T23:00Z",
+  "name": "Miami Heat at Toronto Raptors",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "TOR",
+    "name": "Toronto Raptors",
+    "location": "Toronto",
+    "homeAway": "home",
+    "score": "105"
+   },
+   {
+    "abbr": "MIA",
+    "name": "Miami Heat",
+    "location": "Miami",
+    "homeAway": "away",
+    "score": "129"
+   }
+  ]
+ },
+ {
+  "id": "401914127",
+  "date_utc": "2026-10-04T23:00Z",
+  "name": "Utah Jazz at Denver Nuggets",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "DEN",
+    "name": "Denver Nuggets",
+    "location": "Denver",
+    "homeAway": "home",
+    "score": "97"
+   },
+   {
+    "abbr": "UTAH",
+    "name": "Utah Jazz",
+    "location": "Utah",
+    "homeAway": "away",
+    "score": "109"
+   }
+  ]
+ },
+ {
+  "id": "401918010",
+  "date_utc": "2026-10-04T23:00Z",
+  "name": "Golden State Warriors at LA Clippers",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "LAC",
+    "name": "LA Clippers",
+    "location": "LA",
+    "homeAway": "home",
+    "score": "104"
+   },
+   {
+    "abbr": "GS",
+    "name": "Golden State Warriors",
+    "location": "Golden State",
+    "homeAway": "away",
+    "score": "101"
+   }
+  ]
+ },
+ {
+  "id": "401898388",
+  "date_utc": "2026-10-05T23:00Z",
+  "name": "Memphis Grizzlies at Atlanta Hawks",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "ATL",
+    "name": "Atlanta Hawks",
+    "location": "Atlanta",
+    "homeAway": "home",
+    "score": "123"
+   },
+   {
+    "abbr": "MEM",
+    "name": "Memphis Grizzlies",
+    "location": "Memphis",
+    "homeAway": "away",
+    "score": "132"
+   }
+  ]
+ },
+ {
+  "id": "401908947",
+  "date_utc": "2026-10-05T23:00Z",
+  "name": "Phoenix Suns at Detroit Pistons",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "DET",
+    "name": "Detroit Pistons",
+    "location": "Detroit",
+    "homeAway": "home",
+    "score": "109"
+   },
+   {
+    "abbr": "PHX",
+    "name": "Phoenix Suns",
+    "location": "Phoenix",
+    "homeAway": "away",
+    "score": "107"
+   }
+  ]
+ },
+ {
+  "id": "401914101",
+  "date_utc": "2026-10-05T23:00Z",
+  "name": "New York Knicks at Philadelphia 76ers",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "PHI",
+    "name": "Philadelphia 76ers",
+    "location": "Philadelphia",
+    "homeAway": "home",
+    "score": "120"
+   },
+   {
+    "abbr": "NY",
+    "name": "New York Knicks",
+    "location": "New York",
+    "homeAway": "away",
+    "score": "97"
+   }
+  ]
+ },
+ {
+  "id": "401914102",
+  "date_utc": "2026-10-06T00:00Z",
+  "name": "Minnesota Timberwolves at Milwaukee Bucks",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "MIL",
+    "name": "Milwaukee Bucks",
+    "location": "Milwaukee",
+    "homeAway": "home",
+    "score": "97"
+   },
+   {
+    "abbr": "MIN",
+    "name": "Minnesota Timberwolves",
+    "location": "Minnesota",
+    "homeAway": "away",
+    "score": "116"
+   }
+  ]
+ },
+ {
+  "id": "401898716",
+  "date_utc": "2026-10-06T02:00Z",
+  "name": "Los Angeles Lakers at Sacramento Kings",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "SAC",
+    "name": "Sacramento Kings",
+    "location": "Sacramento",
+    "homeAway": "home",
+    "score": "103"
+   },
+   {
+    "abbr": "LAL",
+    "name": "Los Angeles Lakers",
+    "location": "Los Angeles",
+    "homeAway": "away",
+    "score": "127"
+   }
+  ]
+ },
+ {
+  "id": "401901820",
+  "date_utc": "2026-10-06T23:00Z",
+  "name": "Brooklyn Nets at Charlotte Hornets",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "CHA",
+    "name": "Charlotte Hornets",
+    "location": "Charlotte",
+    "homeAway": "home",
+    "score": "90"
+   },
+   {
+    "abbr": "BKN",
+    "name": "Brooklyn Nets",
+    "location": "Brooklyn",
+    "homeAway": "away",
+    "score": "124"
+   }
+  ]
+ },
+ {
+  "id": "401898389",
+  "date_utc": "2026-10-07T00:00Z",
+  "name": "New Orleans Pelicans at Oklahoma City Thunder",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "OKC",
+    "name": "Oklahoma City Thunder",
+    "location": "Oklahoma City",
+    "homeAway": "home",
+    "score": "110"
+   },
+   {
+    "abbr": "NO",
+    "name": "New Orleans Pelicans",
+    "location": "New Orleans",
+    "homeAway": "away",
+    "score": "116"
+   }
+  ]
+ },
+ {
+  "id": "401914128",
+  "date_utc": "2026-10-07T01:00Z",
+  "name": "Denver Nuggets at Utah Jazz",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "UTAH",
+    "name": "Utah Jazz",
+    "location": "Utah",
+    "homeAway": "home",
+    "score": "106"
+   },
+   {
+    "abbr": "DEN",
+    "name": "Denver Nuggets",
+    "location": "Denver",
+    "homeAway": "away",
+    "score": "117"
+   }
+  ]
+ },
+ {
+  "id": "401898390",
+  "date_utc": "2026-10-07T02:00Z",
+  "name": "Los Angeles Lakers at Golden State Warriors",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "GS",
+    "name": "Golden State Warriors",
+    "location": "Golden State",
+    "homeAway": "home",
+    "score": "124"
+   },
+   {
+    "abbr": "LAL",
+    "name": "Los Angeles Lakers",
+    "location": "Los Angeles",
+    "homeAway": "away",
+    "score": "98"
+   }
+  ]
+ },
+ {
+  "id": "401914123",
+  "date_utc": "2026-10-07T23:00Z",
+  "name": "Minnesota Timberwolves at Indiana Pacers",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "IND",
+    "name": "Indiana Pacers",
+    "location": "Indiana",
+    "homeAway": "home",
+    "score": "123"
+   },
+   {
+    "abbr": "MIN",
+    "name": "Minnesota Timberwolves",
+    "location": "Minnesota",
+    "homeAway": "away",
+    "score": "112"
+   }
+  ]
+ },
+ {
+  "id": "401898391",
+  "date_utc": "2026-10-08T00:00Z",
+  "name": "Orlando Magic at Memphis Grizzlies",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "MEM",
+    "name": "Memphis Grizzlies",
+    "location": "Memphis",
+    "homeAway": "home",
+    "score": "118"
+   },
+   {
+    "abbr": "ORL",
+    "name": "Orlando Magic",
+    "location": "Orlando",
+    "homeAway": "away",
+    "score": "122"
+   }
+  ]
+ },
+ {
+  "id": "401908620",
+  "date_utc": "2026-10-08T00:00Z",
+  "name": "Milwaukee Bucks at Oklahoma City Thunder",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "OKC",
+    "name": "Oklahoma City Thunder",
+    "location": "Oklahoma City",
+    "homeAway": "home",
+    "score": "126"
+   },
+   {
+    "abbr": "MIL",
+    "name": "Milwaukee Bucks",
+    "location": "Milwaukee",
+    "homeAway": "away",
+    "score": "128"
+   }
+  ]
+ },
+ {
+  "id": "401908939",
+  "date_utc": "2026-10-08T00:00Z",
+  "name": "Phoenix Suns at Chicago Bulls",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "CHI",
+    "name": "Chicago Bulls",
+    "location": "Chicago",
+    "homeAway": "home",
+    "score": "124"
+   },
+   {
+    "abbr": "PHX",
+    "name": "Phoenix Suns",
+    "location": "Phoenix",
+    "homeAway": "away",
+    "score": "117"
+   }
+  ]
+ },
+ {
+  "id": "401914129",
+  "date_utc": "2026-10-08T02:00Z",
+  "name": "Golden State Warriors at Portland Trail Blazers",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "POR",
+    "name": "Portland Trail Blazers",
+    "location": "Portland",
+    "homeAway": "home",
+    "score": "123"
+   },
+   {
+    "abbr": "GS",
+    "name": "Golden State Warriors",
+    "location": "Golden State",
+    "homeAway": "away",
+    "score": "118"
+   }
+  ]
+ },
+ {
+  "id": "401898392",
+  "date_utc": "2026-10-08T23:00Z",
+  "name": "Boston Celtics at Cleveland Cavaliers",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "CLE",
+    "name": "Cleveland Cavaliers",
+    "location": "Cleveland",
+    "homeAway": "home",
+    "score": "113"
+   },
+   {
+    "abbr": "BOS",
+    "name": "Boston Celtics",
+    "location": "Boston",
+    "homeAway": "away",
+    "score": "124"
+   }
+  ]
+ },
+ {
+  "id": "401898393",
+  "date_utc": "2026-10-08T23:30Z",
+  "name": "New Orleans Pelicans at Miami Heat",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "MIA",
+    "name": "Miami Heat",
+    "location": "Miami",
+    "homeAway": "home",
+    "score": "128"
+   },
+   {
+    "abbr": "NO",
+    "name": "New Orleans Pelicans",
+    "location": "New Orleans",
+    "homeAway": "away",
+    "score": "118"
+   }
+  ]
+ },
+ {
+  "id": "401901823",
+  "date_utc": "2026-10-08T23:30Z",
+  "name": "Philadelphia 76ers at Brooklyn Nets",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "BKN",
+    "name": "Brooklyn Nets",
+    "location": "Brooklyn",
+    "homeAway": "home",
+    "score": "114"
+   },
+   {
+    "abbr": "PHI",
+    "name": "Philadelphia 76ers",
+    "location": "Philadelphia",
+    "homeAway": "away",
+    "score": "108"
+   }
+  ]
+ },
+ {
+  "id": "401906508",
+  "date_utc": "2026-10-08T23:30Z",
+  "name": "Washington Wizards at New York Knicks",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "NY",
+    "name": "New York Knicks",
+    "location": "New York",
+    "homeAway": "home",
+    "score": "109"
+   },
+   {
+    "abbr": "WSH",
+    "name": "Washington Wizards",
+    "location": "Washington",
+    "homeAway": "away",
+    "score": "111"
+   }
+  ]
+ },
+ {
+  "id": "401898394",
+  "date_utc": "2026-10-09T00:00Z",
+  "name": "Atlanta Hawks at San Antonio Spurs",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "SA",
+    "name": "San Antonio Spurs",
+    "location": "San Antonio",
+    "homeAway": "home",
+    "score": "116"
+   },
+   {
+    "abbr": "ATL",
+    "name": "Atlanta Hawks",
+    "location": "Atlanta",
+    "homeAway": "away",
+    "score": "123"
+   }
+  ]
+ },
+ {
+  "id": "401898717",
+  "date_utc": "2026-10-09T02:45Z",
+  "name": "Sacramento Kings at Los Angeles Lakers",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "LAL",
+    "name": "Los Angeles Lakers",
+    "location": "Los Angeles",
+    "homeAway": "home",
+    "score": "114"
+   },
+   {
+    "abbr": "SAC",
+    "name": "Sacramento Kings",
+    "location": "Sacramento",
+    "homeAway": "away",
+    "score": "110"
+   }
+  ]
+ },
+ {
+  "id": "401898395",
+  "date_utc": "2026-10-09T12:00Z",
+  "name": "Houston Rockets at Dallas Mavericks",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "DAL",
+    "name": "Dallas Mavericks",
+    "location": "Dallas",
+    "homeAway": "home",
+    "score": "117"
+   },
+   {
+    "abbr": "HOU",
+    "name": "Houston Rockets",
+    "location": "Houston",
+    "homeAway": "away",
+    "score": "135"
+   }
+  ]
+ },
+ {
+  "id": "401908940",
+  "date_utc": "2026-10-10T00:00Z",
+  "name": "Memphis Grizzlies at Chicago Bulls",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "CHI",
+    "name": "Chicago Bulls",
+    "location": "Chicago",
+    "homeAway": "home",
+    "score": "100"
+   },
+   {
+    "abbr": "MEM",
+    "name": "Memphis Grizzlies",
+    "location": "Memphis",
+    "homeAway": "away",
+    "score": "104"
+   }
+  ]
+ },
+ {
+  "id": "401902645",
+  "date_utc": "2026-10-10T22:30Z",
+  "name": "LA Clippers at Toronto Raptors",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "TOR",
+    "name": "Toronto Raptors",
+    "location": "Toronto",
+    "homeAway": "home",
+    "score": "114"
+   },
+   {
+    "abbr": "LAC",
+    "name": "LA Clippers",
+    "location": "LA",
+    "homeAway": "away",
+    "score": "106"
+   }
+  ]
+ },
+ {
+  "id": "401898396",
+  "date_utc": "2026-10-10T23:00Z",
+  "name": "Atlanta Hawks at Indiana Pacers",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "IND",
+    "name": "Indiana Pacers",
+    "location": "Indiana",
+    "homeAway": "home",
+    "score": "117"
+   },
+   {
+    "abbr": "ATL",
+    "name": "Atlanta Hawks",
+    "location": "Atlanta",
+    "homeAway": "away",
+    "score": "119"
+   }
+  ]
+ },
+ {
+  "id": "401906510",
+  "date_utc": "2026-10-10T23:00Z",
+  "name": "Detroit Pistons at Washington Wizards",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "WSH",
+    "name": "Washington Wizards",
+    "location": "Washington",
+    "homeAway": "home",
+    "score": "114"
+   },
+   {
+    "abbr": "DET",
+    "name": "Detroit Pistons",
+    "location": "Detroit",
+    "homeAway": "away",
+    "score": "108"
+   }
+  ]
+ },
+ {
+  "id": "401898397",
+  "date_utc": "2026-10-11T00:00Z",
+  "name": "Minnesota Timberwolves at Miami Heat",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "MIA",
+    "name": "Miami Heat",
+    "location": "Miami",
+    "homeAway": "home",
+    "score": "124"
+   },
+   {
+    "abbr": "MIN",
+    "name": "Minnesota Timberwolves",
+    "location": "Minnesota",
+    "homeAway": "away",
+    "score": "125"
+   }
+  ]
+ },
+ {
+  "id": "401898398",
+  "date_utc": "2026-10-11T00:00Z",
+  "name": "Philadelphia 76ers at Boston Celtics",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "BOS",
+    "name": "Boston Celtics",
+    "location": "Boston",
+    "homeAway": "home",
+    "score": "144"
+   },
+   {
+    "abbr": "PHI",
+    "name": "Philadelphia 76ers",
+    "location": "Philadelphia",
+    "homeAway": "away",
+    "score": "106"
+   }
+  ]
+ },
+ {
+  "id": "401898399",
+  "date_utc": "2026-10-11T00:30Z",
+  "name": "Sacramento Kings at Golden State Warriors",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "GS",
+    "name": "Golden State Warriors",
+    "location": "Golden State",
+    "homeAway": "home",
+    "score": "111"
+   },
+   {
+    "abbr": "SAC",
+    "name": "Sacramento Kings",
+    "location": "Sacramento",
+    "homeAway": "away",
+    "score": "106"
+   }
+  ]
+ },
+ {
+  "id": "401898720",
+  "date_utc": "2026-10-11T02:30Z",
+  "name": "San Antonio Spurs at Phoenix Suns",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "PHX",
+    "name": "Phoenix Suns",
+    "location": "Phoenix",
+    "homeAway": "home",
+    "score": "102"
+   },
+   {
+    "abbr": "SA",
+    "name": "San Antonio Spurs",
+    "location": "San Antonio",
+    "homeAway": "away",
+    "score": "98"
+   }
+  ]
+ },
+ {
+  "id": "401898400",
+  "date_utc": "2026-10-11T10:00Z",
+  "name": "Dallas Mavericks at Houston Rockets",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "HOU",
+    "name": "Houston Rockets",
+    "location": "Houston",
+    "homeAway": "home",
+    "score": "115"
+   },
+   {
+    "abbr": "DAL",
+    "name": "Dallas Mavericks",
+    "location": "Dallas",
+    "homeAway": "away",
+    "score": "132"
+   }
+  ]
+ },
+ {
+  "id": "401898401",
+  "date_utc": "2026-10-11T22:30Z",
+  "name": "Orlando Magic at Cleveland Cavaliers",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "CLE",
+    "name": "Cleveland Cavaliers",
+    "location": "Cleveland",
+    "homeAway": "home",
+    "score": "119"
+   },
+   {
+    "abbr": "ORL",
+    "name": "Orlando Magic",
+    "location": "Orlando",
+    "homeAway": "away",
+    "score": "105"
+   }
+  ]
+ },
+ {
+  "id": "401901821",
+  "date_utc": "2026-10-11T23:00Z",
+  "name": "Milwaukee Bucks at Charlotte Hornets",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "CHA",
+    "name": "Charlotte Hornets",
+    "location": "Charlotte",
+    "homeAway": "home",
+    "score": "105"
+   },
+   {
+    "abbr": "MIL",
+    "name": "Milwaukee Bucks",
+    "location": "Milwaukee",
+    "homeAway": "away",
+    "score": "90"
+   }
+  ]
+ },
+ {
+  "id": "401908941",
+  "date_utc": "2026-10-12T01:00Z",
+  "name": "Chicago Bulls at Denver Nuggets",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "DEN",
+    "name": "Denver Nuggets",
+    "location": "Denver",
+    "homeAway": "home",
+    "score": "133"
+   },
+   {
+    "abbr": "CHI",
+    "name": "Chicago Bulls",
+    "location": "Chicago",
+    "homeAway": "away",
+    "score": "128"
+   }
+  ]
+ },
+ {
+  "id": "401914130",
+  "date_utc": "2026-10-12T20:00Z",
+  "name": "London Lions at Portland Trail Blazers",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "POR",
+    "name": "Portland Trail Blazers",
+    "location": "Portland",
+    "homeAway": "home",
+    "score": "119"
+   },
+   {
+    "abbr": "LON",
+    "name": "London Lions",
+    "location": "London",
+    "homeAway": "away",
+    "score": "66"
+   }
+  ]
+ },
+ {
+  "id": "401898402",
+  "date_utc": "2026-10-12T23:00Z",
+  "name": "Oklahoma City Thunder at Atlanta Hawks",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "ATL",
+    "name": "Atlanta Hawks",
+    "location": "Atlanta",
+    "homeAway": "home",
+    "score": "113"
+   },
+   {
+    "abbr": "OKC",
+    "name": "Oklahoma City Thunder",
+    "location": "Oklahoma City",
+    "homeAway": "away",
+    "score": "110"
+   }
+  ]
+ },
+ {
+  "id": "401901824",
+  "date_utc": "2026-10-12T23:00Z",
+  "name": "Brooklyn Nets at Washington Wizards",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "WSH",
+    "name": "Washington Wizards",
+    "location": "Washington",
+    "homeAway": "home",
+    "score": "122"
+   },
+   {
+    "abbr": "BKN",
+    "name": "Brooklyn Nets",
+    "location": "Brooklyn",
+    "homeAway": "away",
+    "score": "131"
+   }
+  ]
+ },
+ {
+  "id": "401914124",
+  "date_utc": "2026-10-12T23:30Z",
+  "name": "Minnesota Timberwolves at New York Knicks",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "NY",
+    "name": "New York Knicks",
+    "location": "New York",
+    "homeAway": "home",
+    "score": "104"
+   },
+   {
+    "abbr": "MIN",
+    "name": "Minnesota Timberwolves",
+    "location": "Minnesota",
+    "homeAway": "away",
+    "score": "122"
+   }
+  ]
+ },
+ {
+  "id": "401898721",
+  "date_utc": "2026-10-13T01:00Z",
+  "name": "San Antonio Spurs at Utah Jazz",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "UTAH",
+    "name": "Utah Jazz",
+    "location": "Utah",
+    "homeAway": "home",
+    "score": "119"
+   },
+   {
+    "abbr": "SA",
+    "name": "San Antonio Spurs",
+    "location": "San Antonio",
+    "homeAway": "away",
+    "score": "109"
+   }
+  ]
+ },
+ {
+  "id": "401898403",
+  "date_utc": "2026-10-13T23:00Z",
+  "name": "Cleveland Cavaliers at Orlando Magic",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "ORL",
+    "name": "Orlando Magic",
+    "location": "Orlando",
+    "homeAway": "home",
+    "score": "132"
+   },
+   {
+    "abbr": "CLE",
+    "name": "Cleveland Cavaliers",
+    "location": "Cleveland",
+    "homeAway": "away",
+    "score": "116"
+   }
+  ]
+ },
+ {
+  "id": "401908944",
+  "date_utc": "2026-10-13T23:00Z",
+  "name": "New York Knicks at Toronto Raptors",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "TOR",
+    "name": "Toronto Raptors",
+    "location": "Toronto",
+    "homeAway": "home",
+    "score": "148"
+   },
+   {
+    "abbr": "NY",
+    "name": "New York Knicks",
+    "location": "New York",
+    "homeAway": "away",
+    "score": "98"
+   }
+  ]
+ },
+ {
+  "id": "401908621",
+  "date_utc": "2026-10-14T00:00Z",
+  "name": "Indiana Pacers at Oklahoma City Thunder",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "OKC",
+    "name": "Oklahoma City Thunder",
+    "location": "Oklahoma City",
+    "homeAway": "home",
+    "score": "114"
+   },
+   {
+    "abbr": "IND",
+    "name": "Indiana Pacers",
+    "location": "Indiana",
+    "homeAway": "away",
+    "score": "112"
+   }
+  ]
+ },
+ {
+  "id": "401898718",
+  "date_utc": "2026-10-14T02:00Z",
+  "name": "Golden State Warriors at Los Angeles Lakers",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "LAL",
+    "name": "Los Angeles Lakers",
+    "location": "Los Angeles",
+    "homeAway": "home",
+    "score": "89"
+   },
+   {
+    "abbr": "GS",
+    "name": "Golden State Warriors",
+    "location": "Golden State",
+    "homeAway": "away",
+    "score": "101"
+   }
+  ]
+ },
+ {
+  "id": "401901826",
+  "date_utc": "2026-10-14T02:00Z",
+  "name": "Portland Trail Blazers at Sacramento Kings",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "SAC",
+    "name": "Sacramento Kings",
+    "location": "Sacramento",
+    "homeAway": "home",
+    "score": "98"
+   },
+   {
+    "abbr": "POR",
+    "name": "Portland Trail Blazers",
+    "location": "Portland",
+    "homeAway": "away",
+    "score": "110"
+   }
+  ]
+ },
+ {
+  "id": "401898404",
+  "date_utc": "2026-10-14T23:30Z",
+  "name": "Brooklyn Nets at Miami Heat",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "MIA",
+    "name": "Miami Heat",
+    "location": "Miami",
+    "homeAway": "home",
+    "score": "144"
+   },
+   {
+    "abbr": "BKN",
+    "name": "Brooklyn Nets",
+    "location": "Brooklyn",
+    "homeAway": "away",
+    "score": "128"
+   }
+  ]
+ },
+ {
+  "id": "401898405",
+  "date_utc": "2026-10-14T23:30Z",
+  "name": "Charlotte Hornets at Boston Celtics",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "BOS",
+    "name": "Boston Celtics",
+    "location": "Boston",
+    "homeAway": "home",
+    "score": "114"
+   },
+   {
+    "abbr": "CHA",
+    "name": "Charlotte Hornets",
+    "location": "Charlotte",
+    "homeAway": "away",
+    "score": "93"
+   }
+  ]
+ },
+ {
+  "id": "401898722",
+  "date_utc": "2026-10-15T00:00Z",
+  "name": "Phoenix Suns at San Antonio Spurs",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "SA",
+    "name": "San Antonio Spurs",
+    "location": "San Antonio",
+    "homeAway": "home",
+    "score": "123"
+   },
+   {
+    "abbr": "PHX",
+    "name": "Phoenix Suns",
+    "location": "Phoenix",
+    "homeAway": "away",
+    "score": "103"
+   }
+  ]
+ },
+ {
+  "id": "401901825",
+  "date_utc": "2026-10-15T00:00Z",
+  "name": "New Orleans Pelicans at Dallas Mavericks",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "DAL",
+    "name": "Dallas Mavericks",
+    "location": "Dallas",
+    "homeAway": "home",
+    "score": "97"
+   },
+   {
+    "abbr": "NO",
+    "name": "New Orleans Pelicans",
+    "location": "New Orleans",
+    "homeAway": "away",
+    "score": "101"
+   }
+  ]
+ },
+ {
+  "id": "401908942",
+  "date_utc": "2026-10-15T00:00Z",
+  "name": "Chicago Bulls at Milwaukee Bucks",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "MIL",
+    "name": "Milwaukee Bucks",
+    "location": "Milwaukee",
+    "homeAway": "home",
+    "score": "104"
+   },
+   {
+    "abbr": "CHI",
+    "name": "Chicago Bulls",
+    "location": "Chicago",
+    "homeAway": "away",
+    "score": "125"
+   }
+  ]
+ },
+ {
+  "id": "401914125",
+  "date_utc": "2026-10-15T00:00Z",
+  "name": "Detroit Pistons at Minnesota Timberwolves",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "MIN",
+    "name": "Minnesota Timberwolves",
+    "location": "Minnesota",
+    "homeAway": "home",
+    "score": "106"
+   },
+   {
+    "abbr": "DET",
+    "name": "Detroit Pistons",
+    "location": "Detroit",
+    "homeAway": "away",
+    "score": "128"
+   }
+  ]
+ },
+ {
+  "id": "401918011",
+  "date_utc": "2026-10-15T02:30Z",
+  "name": "Denver Nuggets at LA Clippers",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "LAC",
+    "name": "LA Clippers",
+    "location": "LA",
+    "homeAway": "home",
+    "score": "122"
+   },
+   {
+    "abbr": "DEN",
+    "name": "Denver Nuggets",
+    "location": "Denver",
+    "homeAway": "away",
+    "score": "110"
+   }
+  ]
+ },
+ {
+  "id": "401908945",
+  "date_utc": "2026-10-15T23:30Z",
+  "name": "Toronto Raptors at New York Knicks",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "NY",
+    "name": "New York Knicks",
+    "location": "New York",
+    "homeAway": "home",
+    "score": "122"
+   },
+   {
+    "abbr": "TOR",
+    "name": "Toronto Raptors",
+    "location": "Toronto",
+    "homeAway": "away",
+    "score": "120"
+   }
+  ]
+ },
+ {
+  "id": "401908622",
+  "date_utc": "2026-10-16T00:30Z",
+  "name": "Oklahoma City Thunder at Houston Rockets",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "HOU",
+    "name": "Houston Rockets",
+    "location": "Houston",
+    "homeAway": "home",
+    "score": "116"
+   },
+   {
+    "abbr": "OKC",
+    "name": "Oklahoma City Thunder",
+    "location": "Oklahoma City",
+    "homeAway": "away",
+    "score": "89"
+   }
+  ]
+ },
+ {
+  "id": "401898406",
+  "date_utc": "2026-10-16T23:00Z",
+  "name": "Miami Heat at Orlando Magic",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "ORL",
+    "name": "Orlando Magic",
+    "location": "Orlando",
+    "homeAway": "home",
+    "score": "136"
+   },
+   {
+    "abbr": "MIA",
+    "name": "Miami Heat",
+    "location": "Miami",
+    "homeAway": "away",
+    "score": "115"
+   }
+  ]
+ },
+ {
+  "id": "401898407",
+  "date_utc": "2026-10-16T23:00Z",
+  "name": "Boston Celtics at Philadelphia 76ers",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "PHI",
+    "name": "Philadelphia 76ers",
+    "location": "Philadelphia",
+    "homeAway": "home",
+    "score": "120"
+   },
+   {
+    "abbr": "BOS",
+    "name": "Boston Celtics",
+    "location": "Boston",
+    "homeAway": "away",
+    "score": "125"
+   }
+  ]
+ },
+ {
+  "id": "401908946",
+  "date_utc": "2026-10-16T23:00Z",
+  "name": "Toronto Raptors at Detroit Pistons",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "DET",
+    "name": "Detroit Pistons",
+    "location": "Detroit",
+    "homeAway": "home",
+    "score": "129"
+   },
+   {
+    "abbr": "TOR",
+    "name": "Toronto Raptors",
+    "location": "Toronto",
+    "homeAway": "away",
+    "score": "125"
+   }
+  ]
+ },
+ {
+  "id": "401914126",
+  "date_utc": "2026-10-16T23:00Z",
+  "name": "Milwaukee Bucks at Indiana Pacers",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "IND",
+    "name": "Indiana Pacers",
+    "location": "Indiana",
+    "homeAway": "home",
+    "score": "127"
+   },
+   {
+    "abbr": "MIL",
+    "name": "Milwaukee Bucks",
+    "location": "Milwaukee",
+    "homeAway": "away",
+    "score": "128"
+   }
+  ]
+ },
+ {
+  "id": "401898408",
+  "date_utc": "2026-10-17T00:00Z",
+  "name": "Atlanta Hawks at Dallas Mavericks",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "DAL",
+    "name": "Dallas Mavericks",
+    "location": "Dallas",
+    "homeAway": "home",
+    "score": "111"
+   },
+   {
+    "abbr": "ATL",
+    "name": "Atlanta Hawks",
+    "location": "Atlanta",
+    "homeAway": "away",
+    "score": "135"
+   }
+  ]
+ },
+ {
+  "id": "401898843",
+  "date_utc": "2026-10-17T00:00Z",
+  "name": "Sacramento Kings at San Antonio Spurs",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "SA",
+    "name": "San Antonio Spurs",
+    "location": "San Antonio",
+    "homeAway": "home",
+    "score": "126"
+   },
+   {
+    "abbr": "SAC",
+    "name": "Sacramento Kings",
+    "location": "Sacramento",
+    "homeAway": "away",
+    "score": "97"
+   }
+  ]
+ },
+ {
+  "id": "401901822",
+  "date_utc": "2026-10-17T00:00Z",
+  "name": "Charlotte Hornets at Memphis Grizzlies",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "MEM",
+    "name": "Memphis Grizzlies",
+    "location": "Memphis",
+    "homeAway": "home",
+    "score": "116"
+   },
+   {
+    "abbr": "CHA",
+    "name": "Charlotte Hornets",
+    "location": "Charlotte",
+    "homeAway": "away",
+    "score": "98"
+   }
+  ]
+ },
+ {
+  "id": "401906509",
+  "date_utc": "2026-10-17T00:00Z",
+  "name": "Washington Wizards at New Orleans Pelicans",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "NO",
+    "name": "New Orleans Pelicans",
+    "location": "New Orleans",
+    "homeAway": "home",
+    "score": "107"
+   },
+   {
+    "abbr": "WSH",
+    "name": "Washington Wizards",
+    "location": "Washington",
+    "homeAway": "away",
+    "score": "106"
+   }
+  ]
+ },
+ {
+  "id": "401908943",
+  "date_utc": "2026-10-17T00:00Z",
+  "name": "Minnesota Timberwolves at Chicago Bulls",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "CHI",
+    "name": "Chicago Bulls",
+    "location": "Chicago",
+    "homeAway": "home",
+    "score": "133"
+   },
+   {
+    "abbr": "MIN",
+    "name": "Minnesota Timberwolves",
+    "location": "Minnesota",
+    "homeAway": "away",
+    "score": "116"
+   }
+  ]
+ },
+ {
+  "id": "401898409",
+  "date_utc": "2026-10-17T02:00Z",
+  "name": "Portland Trail Blazers at Golden State Warriors",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "GS",
+    "name": "Golden State Warriors",
+    "location": "Golden State",
+    "homeAway": "home",
+    "score": "128"
+   },
+   {
+    "abbr": "POR",
+    "name": "Portland Trail Blazers",
+    "location": "Portland",
+    "homeAway": "away",
+    "score": "118"
+   }
+  ]
+ },
+ {
+  "id": "401908948",
+  "date_utc": "2026-10-17T02:00Z",
+  "name": "Utah Jazz at Phoenix Suns",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "PHX",
+    "name": "Phoenix Suns",
+    "location": "Phoenix",
+    "homeAway": "home",
+    "score": "116"
+   },
+   {
+    "abbr": "UTAH",
+    "name": "Utah Jazz",
+    "location": "Utah",
+    "homeAway": "away",
+    "score": "119"
+   }
+  ]
+ },
+ {
+  "id": "401898719",
+  "date_utc": "2026-10-17T02:30Z",
+  "name": "Denver Nuggets at Los Angeles Lakers",
+  "status": "STATUS_FINAL",
+  "season_type": 1,
+  "teams": [
+   {
+    "abbr": "LAL",
+    "name": "Los Angeles Lakers",
+    "location": "Los Angeles",
+    "homeAway": "home",
+    "score": "106"
+   },
+   {
+    "abbr": "DEN",
+    "name": "Denver Nuggets",
+    "location": "Denver",
+    "homeAway": "away",
+    "score": "121"
+   }
+  ]
+ },
+ {
+  "id": "401909088",
+  "date_utc": "2026-10-20T19:00Z",
+  "name": "Boston Celtics at Detroit Pistons",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "DET",
+    "name": "Detroit Pistons",
+    "location": "Detroit",
+    "homeAway": "home",
+    "score": "121"
+   },
+   {
+    "abbr": "BOS",
+    "name": "Boston Celtics",
+    "location": "Boston",
+    "homeAway": "away",
+    "score": "113"
+   }
+  ]
+ },
+ {
+  "id": "401909089",
+  "date_utc": "2026-10-20T23:00Z",
+  "name": "Philadelphia 76ers at New York Knicks",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "NY",
+    "name": "New York Knicks",
+    "location": "New York",
+    "homeAway": "home",
+    "score": "100"
+   },
+   {
+    "abbr": "PHI",
+    "name": "Philadelphia 76ers",
+    "location": "Philadelphia",
+    "homeAway": "away",
+    "score": "106"
+   }
+  ]
+ },
+ {
+  "id": "401909090",
+  "date_utc": "2026-10-21T01:50Z",
+  "name": "Oklahoma City Thunder at San Antonio Spurs",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "SA",
+    "name": "San Antonio Spurs",
+    "location": "San Antonio",
+    "homeAway": "home",
+    "score": "104"
+   },
+   {
+    "abbr": "OKC",
+    "name": "Oklahoma City Thunder",
+    "location": "Oklahoma City",
+    "homeAway": "away",
+    "score": "116"
+   }
+  ]
+ },
+ {
+  "id": "401909834",
+  "date_utc": "2026-10-21T23:00Z",
+  "name": "Atlanta Hawks at Orlando Magic",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "ORL",
+    "name": "Orlando Magic",
+    "location": "Orlando",
+    "homeAway": "home",
+    "score": "125"
+   },
+   {
+    "abbr": "ATL",
+    "name": "Atlanta Hawks",
+    "location": "Atlanta",
+    "homeAway": "away",
+    "score": "132"
+   }
+  ]
+ },
+ {
+  "id": "401909835",
+  "date_utc": "2026-10-21T23:00Z",
+  "name": "Milwaukee Bucks at Washington Wizards",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "WSH",
+    "name": "Washington Wizards",
+    "location": "Washington",
+    "homeAway": "home",
+    "score": "128"
+   },
+   {
+    "abbr": "MIL",
+    "name": "Milwaukee Bucks",
+    "location": "Milwaukee",
+    "homeAway": "away",
+    "score": "116"
+   }
+  ]
+ },
+ {
+  "id": "401909091",
+  "date_utc": "2026-10-21T23:30Z",
+  "name": "Minnesota Timberwolves at Miami Heat",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "MIA",
+    "name": "Miami Heat",
+    "location": "Miami",
+    "homeAway": "home",
+    "score": "106"
+   },
+   {
+    "abbr": "MIN",
+    "name": "Minnesota Timberwolves",
+    "location": "Minnesota",
+    "homeAway": "away",
+    "score": "131"
+   }
+  ]
+ },
+ {
+  "id": "401909836",
+  "date_utc": "2026-10-21T23:30Z",
+  "name": "Charlotte Hornets at Brooklyn Nets",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "BKN",
+    "name": "Brooklyn Nets",
+    "location": "Brooklyn",
+    "homeAway": "home",
+    "score": "103"
+   },
+   {
+    "abbr": "CHA",
+    "name": "Charlotte Hornets",
+    "location": "Charlotte",
+    "homeAway": "away",
+    "score": "110"
+   }
+  ]
+ },
+ {
+  "id": "401909837",
+  "date_utc": "2026-10-21T23:30Z",
+  "name": "Chicago Bulls at Toronto Raptors",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "TOR",
+    "name": "Toronto Raptors",
+    "location": "Toronto",
+    "homeAway": "home",
+    "score": "135"
+   },
+   {
+    "abbr": "CHI",
+    "name": "Chicago Bulls",
+    "location": "Chicago",
+    "homeAway": "away",
+    "score": "92"
+   }
+  ]
+ },
+ {
+  "id": "401909838",
+  "date_utc": "2026-10-22T00:00Z",
+  "name": "Utah Jazz at Memphis Grizzlies",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "MEM",
+    "name": "Memphis Grizzlies",
+    "location": "Memphis",
+    "homeAway": "home",
+    "score": "123"
+   },
+   {
+    "abbr": "UTAH",
+    "name": "Utah Jazz",
+    "location": "Utah",
+    "homeAway": "away",
+    "score": "103"
+   }
+  ]
+ },
+ {
+  "id": "401909839",
+  "date_utc": "2026-10-22T00:00Z",
+  "name": "Indiana Pacers at New Orleans Pelicans",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "NO",
+    "name": "New Orleans Pelicans",
+    "location": "New Orleans",
+    "homeAway": "home",
+    "score": "120"
+   },
+   {
+    "abbr": "IND",
+    "name": "Indiana Pacers",
+    "location": "Indiana",
+    "homeAway": "away",
+    "score": "123"
+   }
+  ]
+ },
+ {
+  "id": "401909840",
+  "date_utc": "2026-10-22T00:30Z",
+  "name": "Dallas Mavericks at Houston Rockets",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "HOU",
+    "name": "Houston Rockets",
+    "location": "Houston",
+    "homeAway": "home",
+    "score": "128"
+   },
+   {
+    "abbr": "DAL",
+    "name": "Dallas Mavericks",
+    "location": "Dallas",
+    "homeAway": "away",
+    "score": "110"
+   }
+  ]
+ },
+ {
+  "id": "401909092",
+  "date_utc": "2026-10-22T02:00Z",
+  "name": "Golden State Warriors at Los Angeles Lakers",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "LAL",
+    "name": "Los Angeles Lakers",
+    "location": "Los Angeles",
+    "homeAway": "home",
+    "score": "127"
+   },
+   {
+    "abbr": "GS",
+    "name": "Golden State Warriors",
+    "location": "Golden State",
+    "homeAway": "away",
+    "score": "105"
+   }
+  ]
+ },
+ {
+  "id": "401909841",
+  "date_utc": "2026-10-22T02:00Z",
+  "name": "Phoenix Suns at Portland Trail Blazers",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "POR",
+    "name": "Portland Trail Blazers",
+    "location": "Portland",
+    "homeAway": "home",
+    "score": "124"
+   },
+   {
+    "abbr": "PHX",
+    "name": "Phoenix Suns",
+    "location": "Phoenix",
+    "homeAway": "away",
+    "score": "83"
+   }
+  ]
+ },
+ {
+  "id": "401909842",
+  "date_utc": "2026-10-22T02:30Z",
+  "name": "Sacramento Kings at LA Clippers",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "LAC",
+    "name": "LA Clippers",
+    "location": "LA",
+    "homeAway": "home",
+    "score": "121"
+   },
+   {
+    "abbr": "SAC",
+    "name": "Sacramento Kings",
+    "location": "Sacramento",
+    "homeAway": "away",
+    "score": "96"
+   }
+  ]
+ },
+ {
+  "id": "401909093",
+  "date_utc": "2026-10-22T23:00Z",
+  "name": "Cleveland Cavaliers at Philadelphia 76ers",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "PHI",
+    "name": "Philadelphia 76ers",
+    "location": "Philadelphia",
+    "homeAway": "home",
+    "score": "114"
+   },
+   {
+    "abbr": "CLE",
+    "name": "Cleveland Cavaliers",
+    "location": "Cleveland",
+    "homeAway": "away",
+    "score": "106"
+   }
+  ]
+ },
+ {
+  "id": "401909094",
+  "date_utc": "2026-10-23T01:30Z",
+  "name": "Denver Nuggets at Oklahoma City Thunder",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "OKC",
+    "name": "Oklahoma City Thunder",
+    "location": "Oklahoma City",
+    "homeAway": "home",
+    "score": "96"
+   },
+   {
+    "abbr": "DEN",
+    "name": "Denver Nuggets",
+    "location": "Denver",
+    "homeAway": "away",
+    "score": "84"
+   }
+  ]
+ },
+ {
+  "id": "401909848",
+  "date_utc": "2026-10-23T20:00Z",
+  "name": "Chicago Bulls at Milwaukee Bucks",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "MIL",
+    "name": "Milwaukee Bucks",
+    "location": "Milwaukee",
+    "homeAway": "home",
+    "score": "125"
+   },
+   {
+    "abbr": "CHI",
+    "name": "Chicago Bulls",
+    "location": "Chicago",
+    "homeAway": "away",
+    "score": "132"
+   }
+  ]
+ },
+ {
+  "id": "401909095",
+  "date_utc": "2026-10-23T23:00Z",
+  "name": "New York Knicks at Boston Celtics",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "BOS",
+    "name": "Boston Celtics",
+    "location": "Boston",
+    "homeAway": "home",
+    "score": "107"
+   },
+   {
+    "abbr": "NY",
+    "name": "New York Knicks",
+    "location": "New York",
+    "homeAway": "away",
+    "score": "103"
+   }
+  ]
+ },
+ {
+  "id": "401909843",
+  "date_utc": "2026-10-23T23:00Z",
+  "name": "Atlanta Hawks at Charlotte Hornets",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "CHA",
+    "name": "Charlotte Hornets",
+    "location": "Charlotte",
+    "homeAway": "home",
+    "score": "81"
+   },
+   {
+    "abbr": "ATL",
+    "name": "Atlanta Hawks",
+    "location": "Atlanta",
+    "homeAway": "away",
+    "score": "128"
+   }
+  ]
+ },
+ {
+  "id": "401909844",
+  "date_utc": "2026-10-23T23:00Z",
+  "name": "Dallas Mavericks at Indiana Pacers",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "IND",
+    "name": "Indiana Pacers",
+    "location": "Indiana",
+    "homeAway": "home",
+    "score": "105"
+   },
+   {
+    "abbr": "DAL",
+    "name": "Dallas Mavericks",
+    "location": "Dallas",
+    "homeAway": "away",
+    "score": "121"
+   }
+  ]
+ },
+ {
+  "id": "401909845",
+  "date_utc": "2026-10-23T23:00Z",
+  "name": "Minnesota Timberwolves at Orlando Magic",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "ORL",
+    "name": "Orlando Magic",
+    "location": "Orlando",
+    "homeAway": "home",
+    "score": "93"
+   },
+   {
+    "abbr": "MIN",
+    "name": "Minnesota Timberwolves",
+    "location": "Minnesota",
+    "homeAway": "away",
+    "score": "115"
+   }
+  ]
+ },
+ {
+  "id": "401909846",
+  "date_utc": "2026-10-23T23:00Z",
+  "name": "Toronto Raptors at Washington Wizards",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "WSH",
+    "name": "Washington Wizards",
+    "location": "Washington",
+    "homeAway": "home",
+    "score": "102"
+   },
+   {
+    "abbr": "TOR",
+    "name": "Toronto Raptors",
+    "location": "Toronto",
+    "homeAway": "away",
+    "score": "112"
+   }
+  ]
+ },
+ {
+  "id": "401909847",
+  "date_utc": "2026-10-24T00:00Z",
+  "name": "Detroit Pistons at Miami Heat",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "MIA",
+    "name": "Miami Heat",
+    "location": "Miami",
+    "homeAway": "home",
+    "score": "111"
+   },
+   {
+    "abbr": "DET",
+    "name": "Detroit Pistons",
+    "location": "Detroit",
+    "homeAway": "away",
+    "score": "128"
+   }
+  ]
+ },
+ {
+  "id": "401909096",
+  "date_utc": "2026-10-24T01:30Z",
+  "name": "Houston Rockets at San Antonio Spurs",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "SA",
+    "name": "San Antonio Spurs",
+    "location": "San Antonio",
+    "homeAway": "home",
+    "score": "110"
+   },
+   {
+    "abbr": "HOU",
+    "name": "Houston Rockets",
+    "location": "Houston",
+    "homeAway": "away",
+    "score": "114"
+   }
+  ]
+ },
+ {
+  "id": "401909849",
+  "date_utc": "2026-10-24T01:30Z",
+  "name": "New Orleans Pelicans at Utah Jazz",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "UTAH",
+    "name": "Utah Jazz",
+    "location": "Utah",
+    "homeAway": "home",
+    "score": "120"
+   },
+   {
+    "abbr": "NO",
+    "name": "New Orleans Pelicans",
+    "location": "New Orleans",
+    "homeAway": "away",
+    "score": "119"
+   }
+  ]
+ },
+ {
+  "id": "401909850",
+  "date_utc": "2026-10-24T02:00Z",
+  "name": "Memphis Grizzlies at Golden State Warriors",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "GS",
+    "name": "Golden State Warriors",
+    "location": "Golden State",
+    "homeAway": "home",
+    "score": "108"
+   },
+   {
+    "abbr": "MEM",
+    "name": "Memphis Grizzlies",
+    "location": "Memphis",
+    "homeAway": "away",
+    "score": "111"
+   }
+  ]
+ },
+ {
+  "id": "401909851",
+  "date_utc": "2026-10-24T02:00Z",
+  "name": "LA Clippers at Los Angeles Lakers",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "LAL",
+    "name": "Los Angeles Lakers",
+    "location": "Los Angeles",
+    "homeAway": "home",
+    "score": "125"
+   },
+   {
+    "abbr": "LAC",
+    "name": "LA Clippers",
+    "location": "LA",
+    "homeAway": "away",
+    "score": "117"
+   }
+  ]
+ },
+ {
+  "id": "401909852",
+  "date_utc": "2026-10-24T02:00Z",
+  "name": "Portland Trail Blazers at Sacramento Kings",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "SAC",
+    "name": "Sacramento Kings",
+    "location": "Sacramento",
+    "homeAway": "home",
+    "score": "120"
+   },
+   {
+    "abbr": "POR",
+    "name": "Portland Trail Blazers",
+    "location": "Portland",
+    "homeAway": "away",
+    "score": "128"
+   }
+  ]
+ },
+ {
+  "id": "401909853",
+  "date_utc": "2026-10-24T22:00Z",
+  "name": "Miami Heat at Charlotte Hornets",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "CHA",
+    "name": "Charlotte Hornets",
+    "location": "Charlotte",
+    "homeAway": "home",
+    "score": "115"
+   },
+   {
+    "abbr": "MIA",
+    "name": "Miami Heat",
+    "location": "Miami",
+    "homeAway": "away",
+    "score": "110"
+   }
+  ]
+ },
+ {
+  "id": "401909854",
+  "date_utc": "2026-10-24T23:30Z",
+  "name": "Brooklyn Nets at Cleveland Cavaliers",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "CLE",
+    "name": "Cleveland Cavaliers",
+    "location": "Cleveland",
+    "homeAway": "home",
+    "score": "125"
+   },
+   {
+    "abbr": "BKN",
+    "name": "Brooklyn Nets",
+    "location": "Brooklyn",
+    "homeAway": "away",
+    "score": "121"
+   }
+  ]
+ },
+ {
+  "id": "401909855",
+  "date_utc": "2026-10-24T23:30Z",
+  "name": "Milwaukee Bucks at Philadelphia 76ers",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "PHI",
+    "name": "Philadelphia 76ers",
+    "location": "Philadelphia",
+    "homeAway": "home",
+    "score": "127"
+   },
+   {
+    "abbr": "MIL",
+    "name": "Milwaukee Bucks",
+    "location": "Milwaukee",
+    "homeAway": "away",
+    "score": "116"
+   }
+  ]
+ },
+ {
+  "id": "401909857",
+  "date_utc": "2026-10-25T00:00Z",
+  "name": "Washington Wizards at Chicago Bulls",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "CHI",
+    "name": "Chicago Bulls",
+    "location": "Chicago",
+    "homeAway": "home",
+    "score": "120"
+   },
+   {
+    "abbr": "WSH",
+    "name": "Washington Wizards",
+    "location": "Washington",
+    "homeAway": "away",
+    "score": "124"
+   }
+  ]
+ },
+ {
+  "id": "401909858",
+  "date_utc": "2026-10-25T00:00Z",
+  "name": "San Antonio Spurs at Dallas Mavericks",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "DAL",
+    "name": "Dallas Mavericks",
+    "location": "Dallas",
+    "homeAway": "home",
+    "score": "106"
+   },
+   {
+    "abbr": "SA",
+    "name": "San Antonio Spurs",
+    "location": "San Antonio",
+    "homeAway": "away",
+    "score": "122"
+   }
+  ]
+ },
+ {
+  "id": "401909856",
+  "date_utc": "2026-10-25T00:30Z",
+  "name": "Houston Rockets at Atlanta Hawks",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "ATL",
+    "name": "Atlanta Hawks",
+    "location": "Atlanta",
+    "homeAway": "home",
+    "score": "114"
+   },
+   {
+    "abbr": "HOU",
+    "name": "Houston Rockets",
+    "location": "Houston",
+    "homeAway": "away",
+    "score": "121"
+   }
+  ]
+ },
+ {
+  "id": "401909859",
+  "date_utc": "2026-10-25T01:00Z",
+  "name": "New Orleans Pelicans at Denver Nuggets",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "DEN",
+    "name": "Denver Nuggets",
+    "location": "Denver",
+    "homeAway": "home",
+    "score": "141"
+   },
+   {
+    "abbr": "NO",
+    "name": "New Orleans Pelicans",
+    "location": "New Orleans",
+    "homeAway": "away",
+    "score": "135"
+   }
+  ]
+ },
+ {
+  "id": "401909860",
+  "date_utc": "2026-10-25T02:00Z",
+  "name": "Golden State Warriors at Phoenix Suns",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "PHX",
+    "name": "Phoenix Suns",
+    "location": "Phoenix",
+    "homeAway": "home",
+    "score": "131"
+   },
+   {
+    "abbr": "GS",
+    "name": "Golden State Warriors",
+    "location": "Golden State",
+    "homeAway": "away",
+    "score": "122"
+   }
+  ]
+ },
+ {
+  "id": "401909861",
+  "date_utc": "2026-10-25T21:00Z",
+  "name": "Los Angeles Lakers at Utah Jazz",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "UTAH",
+    "name": "Utah Jazz",
+    "location": "Utah",
+    "homeAway": "home",
+    "score": "123"
+   },
+   {
+    "abbr": "LAL",
+    "name": "Los Angeles Lakers",
+    "location": "Los Angeles",
+    "homeAway": "away",
+    "score": "132"
+   }
+  ]
+ },
+ {
+  "id": "401909862",
+  "date_utc": "2026-10-25T22:00Z",
+  "name": "Indiana Pacers at Brooklyn Nets",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "BKN",
+    "name": "Brooklyn Nets",
+    "location": "Brooklyn",
+    "homeAway": "home",
+    "score": "109"
+   },
+   {
+    "abbr": "IND",
+    "name": "Indiana Pacers",
+    "location": "Indiana",
+    "homeAway": "away",
+    "score": "136"
+   }
+  ]
+ },
+ {
+  "id": "401909863",
+  "date_utc": "2026-10-25T23:00Z",
+  "name": "Orlando Magic at New York Knicks",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "NY",
+    "name": "New York Knicks",
+    "location": "New York",
+    "homeAway": "home",
+    "score": "102"
+   },
+   {
+    "abbr": "ORL",
+    "name": "Orlando Magic",
+    "location": "Orlando",
+    "homeAway": "away",
+    "score": "111"
+   }
+  ]
+ },
+ {
+  "id": "401909864",
+  "date_utc": "2026-10-25T23:00Z",
+  "name": "Toronto Raptors at Minnesota Timberwolves",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "MIN",
+    "name": "Minnesota Timberwolves",
+    "location": "Minnesota",
+    "homeAway": "home",
+    "score": "117"
+   },
+   {
+    "abbr": "TOR",
+    "name": "Toronto Raptors",
+    "location": "Toronto",
+    "homeAway": "away",
+    "score": "94"
+   }
+  ]
+ },
+ {
+  "id": "401909865",
+  "date_utc": "2026-10-25T23:00Z",
+  "name": "LA Clippers at Oklahoma City Thunder",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "OKC",
+    "name": "Oklahoma City Thunder",
+    "location": "Oklahoma City",
+    "homeAway": "home",
+    "score": "108"
+   },
+   {
+    "abbr": "LAC",
+    "name": "LA Clippers",
+    "location": "LA",
+    "homeAway": "away",
+    "score": "101"
+   }
+  ]
+ },
+ {
+  "id": "401909866",
+  "date_utc": "2026-10-25T23:30Z",
+  "name": "Detroit Pistons at Philadelphia 76ers",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "PHI",
+    "name": "Philadelphia 76ers",
+    "location": "Philadelphia",
+    "homeAway": "home",
+    "score": "93"
+   },
+   {
+    "abbr": "DET",
+    "name": "Detroit Pistons",
+    "location": "Detroit",
+    "homeAway": "away",
+    "score": "106"
+   }
+  ]
+ },
+ {
+  "id": "401909867",
+  "date_utc": "2026-10-26T01:00Z",
+  "name": "Memphis Grizzlies at Sacramento Kings",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "SAC",
+    "name": "Sacramento Kings",
+    "location": "Sacramento",
+    "homeAway": "home",
+    "score": "112"
+   },
+   {
+    "abbr": "MEM",
+    "name": "Memphis Grizzlies",
+    "location": "Memphis",
+    "homeAway": "away",
+    "score": "123"
+   }
+  ]
+ },
+ {
+  "id": "401909868",
+  "date_utc": "2026-10-26T23:00Z",
+  "name": "Washington Wizards at Charlotte Hornets",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "CHA",
+    "name": "Charlotte Hornets",
+    "location": "Charlotte",
+    "homeAway": "home",
+    "score": "110"
+   },
+   {
+    "abbr": "WSH",
+    "name": "Washington Wizards",
+    "location": "Washington",
+    "homeAway": "away",
+    "score": "103"
+   }
+  ]
+ },
+ {
+  "id": "401909869",
+  "date_utc": "2026-10-26T23:00Z",
+  "name": "Minnesota Timberwolves at Cleveland Cavaliers",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "CLE",
+    "name": "Cleveland Cavaliers",
+    "location": "Cleveland",
+    "homeAway": "home",
+    "score": "127"
+   },
+   {
+    "abbr": "MIN",
+    "name": "Minnesota Timberwolves",
+    "location": "Minnesota",
+    "homeAway": "away",
+    "score": "125"
+   }
+  ]
+ },
+ {
+  "id": "401909870",
+  "date_utc": "2026-10-26T23:30Z",
+  "name": "Chicago Bulls at Boston Celtics",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "BOS",
+    "name": "Boston Celtics",
+    "location": "Boston",
+    "homeAway": "home",
+    "score": "134"
+   },
+   {
+    "abbr": "CHI",
+    "name": "Chicago Bulls",
+    "location": "Chicago",
+    "homeAway": "away",
+    "score": "99"
+   }
+  ]
+ },
+ {
+  "id": "401909871",
+  "date_utc": "2026-10-26T23:30Z",
+  "name": "Dallas Mavericks at Miami Heat",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "MIA",
+    "name": "Miami Heat",
+    "location": "Miami",
+    "homeAway": "home",
+    "score": "109"
+   },
+   {
+    "abbr": "DAL",
+    "name": "Dallas Mavericks",
+    "location": "Dallas",
+    "homeAway": "away",
+    "score": "113"
+   }
+  ]
+ },
+ {
+  "id": "401909872",
+  "date_utc": "2026-10-27T00:00Z",
+  "name": "Indiana Pacers at Milwaukee Bucks",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "MIL",
+    "name": "Milwaukee Bucks",
+    "location": "Milwaukee",
+    "homeAway": "home",
+    "score": "110"
+   },
+   {
+    "abbr": "IND",
+    "name": "Indiana Pacers",
+    "location": "Indiana",
+    "homeAway": "away",
+    "score": "102"
+   }
+  ]
+ },
+ {
+  "id": "401909873",
+  "date_utc": "2026-10-27T00:00Z",
+  "name": "Phoenix Suns at Oklahoma City Thunder",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "OKC",
+    "name": "Oklahoma City Thunder",
+    "location": "Oklahoma City",
+    "homeAway": "home",
+    "score": "125"
+   },
+   {
+    "abbr": "PHX",
+    "name": "Phoenix Suns",
+    "location": "Phoenix",
+    "homeAway": "away",
+    "score": "114"
+   }
+  ]
+ },
+ {
+  "id": "401909874",
+  "date_utc": "2026-10-27T00:30Z",
+  "name": "Atlanta Hawks at Houston Rockets",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "HOU",
+    "name": "Houston Rockets",
+    "location": "Houston",
+    "homeAway": "home",
+    "score": "120"
+   },
+   {
+    "abbr": "ATL",
+    "name": "Atlanta Hawks",
+    "location": "Atlanta",
+    "homeAway": "away",
+    "score": "110"
+   }
+  ]
+ },
+ {
+  "id": "401909875",
+  "date_utc": "2026-10-27T01:00Z",
+  "name": "Memphis Grizzlies at Utah Jazz",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "UTAH",
+    "name": "Utah Jazz",
+    "location": "Utah",
+    "homeAway": "home",
+    "score": "105"
+   },
+   {
+    "abbr": "MEM",
+    "name": "Memphis Grizzlies",
+    "location": "Memphis",
+    "homeAway": "away",
+    "score": "110"
+   }
+  ]
+ },
+ {
+  "id": "401909876",
+  "date_utc": "2026-10-27T02:00Z",
+  "name": "Golden State Warriors at Denver Nuggets",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "DEN",
+    "name": "Denver Nuggets",
+    "location": "Denver",
+    "homeAway": "home",
+    "score": "114"
+   },
+   {
+    "abbr": "GS",
+    "name": "Golden State Warriors",
+    "location": "Golden State",
+    "homeAway": "away",
+    "score": "134"
+   }
+  ]
+ },
+ {
+  "id": "401909877",
+  "date_utc": "2026-10-27T23:30Z",
+  "name": "Brooklyn Nets at Boston Celtics",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "BOS",
+    "name": "Boston Celtics",
+    "location": "Boston",
+    "homeAway": "home",
+    "score": "125"
+   },
+   {
+    "abbr": "BKN",
+    "name": "Brooklyn Nets",
+    "location": "Brooklyn",
+    "homeAway": "away",
+    "score": "124"
+   }
+  ]
+ },
+ {
+  "id": "401909878",
+  "date_utc": "2026-10-28T00:00Z",
+  "name": "Detroit Pistons at New York Knicks",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "NY",
+    "name": "New York Knicks",
+    "location": "New York",
+    "homeAway": "home",
+    "score": "111"
+   },
+   {
+    "abbr": "DET",
+    "name": "Detroit Pistons",
+    "location": "Detroit",
+    "homeAway": "away",
+    "score": "97"
+   }
+  ]
+ },
+ {
+  "id": "401909879",
+  "date_utc": "2026-10-28T00:00Z",
+  "name": "Sacramento Kings at San Antonio Spurs",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "SA",
+    "name": "San Antonio Spurs",
+    "location": "San Antonio",
+    "homeAway": "home",
+    "score": "130"
+   },
+   {
+    "abbr": "SAC",
+    "name": "Sacramento Kings",
+    "location": "Sacramento",
+    "homeAway": "away",
+    "score": "103"
+   }
+  ]
+ },
+ {
+  "id": "401909880",
+  "date_utc": "2026-10-28T03:00Z",
+  "name": "Portland Trail Blazers at Los Angeles Lakers",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "LAL",
+    "name": "Los Angeles Lakers",
+    "location": "Los Angeles",
+    "homeAway": "home",
+    "score": "129"
+   },
+   {
+    "abbr": "POR",
+    "name": "Portland Trail Blazers",
+    "location": "Portland",
+    "homeAway": "away",
+    "score": "136"
+   }
+  ]
+ },
+ {
+  "id": "401909881",
+  "date_utc": "2026-10-28T23:00Z",
+  "name": "Miami Heat at Atlanta Hawks",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "ATL",
+    "name": "Atlanta Hawks",
+    "location": "Atlanta",
+    "homeAway": "home",
+    "score": "117"
+   },
+   {
+    "abbr": "MIA",
+    "name": "Miami Heat",
+    "location": "Miami",
+    "homeAway": "away",
+    "score": "129"
+   }
+  ]
+ },
+ {
+  "id": "401909882",
+  "date_utc": "2026-10-28T23:00Z",
+  "name": "Washington Wizards at Cleveland Cavaliers",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "CLE",
+    "name": "Cleveland Cavaliers",
+    "location": "Cleveland",
+    "homeAway": "home",
+    "score": "121"
+   },
+   {
+    "abbr": "WSH",
+    "name": "Washington Wizards",
+    "location": "Washington",
+    "homeAway": "away",
+    "score": "111"
+   }
+  ]
+ },
+ {
+  "id": "401909883",
+  "date_utc": "2026-10-28T23:00Z",
+  "name": "Charlotte Hornets at Detroit Pistons",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "DET",
+    "name": "Detroit Pistons",
+    "location": "Detroit",
+    "homeAway": "home",
+    "score": "97"
+   },
+   {
+    "abbr": "CHA",
+    "name": "Charlotte Hornets",
+    "location": "Charlotte",
+    "homeAway": "away",
+    "score": "89"
+   }
+  ]
+ },
+ {
+  "id": "401909884",
+  "date_utc": "2026-10-28T23:00Z",
+  "name": "Philadelphia 76ers at Indiana Pacers",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "IND",
+    "name": "Indiana Pacers",
+    "location": "Indiana",
+    "homeAway": "home",
+    "score": "109"
+   },
+   {
+    "abbr": "PHI",
+    "name": "Philadelphia 76ers",
+    "location": "Philadelphia",
+    "homeAway": "away",
+    "score": "114"
+   }
+  ]
+ },
+ {
+  "id": "401909885",
+  "date_utc": "2026-10-28T23:30Z",
+  "name": "Orlando Magic at Toronto Raptors",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "TOR",
+    "name": "Toronto Raptors",
+    "location": "Toronto",
+    "homeAway": "home",
+    "score": "129"
+   },
+   {
+    "abbr": "ORL",
+    "name": "Orlando Magic",
+    "location": "Orlando",
+    "homeAway": "away",
+    "score": "99"
+   }
+  ]
+ },
+ {
+  "id": "401909886",
+  "date_utc": "2026-10-29T00:00Z",
+  "name": "New York Knicks at Chicago Bulls",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "CHI",
+    "name": "Chicago Bulls",
+    "location": "Chicago",
+    "homeAway": "home",
+    "score": "127"
+   },
+   {
+    "abbr": "NY",
+    "name": "New York Knicks",
+    "location": "New York",
+    "homeAway": "away",
+    "score": "133"
+   }
+  ]
+ },
+ {
+  "id": "401909887",
+  "date_utc": "2026-10-29T00:00Z",
+  "name": "Houston Rockets at Milwaukee Bucks",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "MIL",
+    "name": "Milwaukee Bucks",
+    "location": "Milwaukee",
+    "homeAway": "home",
+    "score": "100"
+   },
+   {
+    "abbr": "HOU",
+    "name": "Houston Rockets",
+    "location": "Houston",
+    "homeAway": "away",
+    "score": "132"
+   }
+  ]
+ },
+ {
+  "id": "401909888",
+  "date_utc": "2026-10-29T00:00Z",
+  "name": "Golden State Warriors at Minnesota Timberwolves",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "MIN",
+    "name": "Minnesota Timberwolves",
+    "location": "Minnesota",
+    "homeAway": "home",
+    "score": "114"
+   },
+   {
+    "abbr": "GS",
+    "name": "Golden State Warriors",
+    "location": "Golden State",
+    "homeAway": "away",
+    "score": "119"
+   }
+  ]
+ },
+ {
+  "id": "401909889",
+  "date_utc": "2026-10-29T00:00Z",
+  "name": "Denver Nuggets at New Orleans Pelicans",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "NO",
+    "name": "New Orleans Pelicans",
+    "location": "New Orleans",
+    "homeAway": "home",
+    "score": "91"
+   },
+   {
+    "abbr": "DEN",
+    "name": "Denver Nuggets",
+    "location": "Denver",
+    "homeAway": "away",
+    "score": "104"
+   }
+  ]
+ },
+ {
+  "id": "401909890",
+  "date_utc": "2026-10-29T01:00Z",
+  "name": "San Antonio Spurs at Utah Jazz",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "UTAH",
+    "name": "Utah Jazz",
+    "location": "Utah",
+    "homeAway": "home",
+    "score": "111"
+   },
+   {
+    "abbr": "SA",
+    "name": "San Antonio Spurs",
+    "location": "San Antonio",
+    "homeAway": "away",
+    "score": "117"
+   }
+  ]
+ },
+ {
+  "id": "401909891",
+  "date_utc": "2026-10-29T01:30Z",
+  "name": "Oklahoma City Thunder at Dallas Mavericks",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "DAL",
+    "name": "Dallas Mavericks",
+    "location": "Dallas",
+    "homeAway": "home",
+    "score": "120"
+   },
+   {
+    "abbr": "OKC",
+    "name": "Oklahoma City Thunder",
+    "location": "Oklahoma City",
+    "homeAway": "away",
+    "score": "96"
+   }
+  ]
+ },
+ {
+  "id": "401909892",
+  "date_utc": "2026-10-29T02:30Z",
+  "name": "Los Angeles Lakers at LA Clippers",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "LAC",
+    "name": "LA Clippers",
+    "location": "LA",
+    "homeAway": "home",
+    "score": "87"
+   },
+   {
+    "abbr": "LAL",
+    "name": "Los Angeles Lakers",
+    "location": "Los Angeles",
+    "homeAway": "away",
+    "score": "103"
+   }
+  ]
+ },
+ {
+  "id": "401909893",
+  "date_utc": "2026-10-30T00:00Z",
+  "name": "Cleveland Cavaliers at Atlanta Hawks",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "ATL",
+    "name": "Atlanta Hawks",
+    "location": "Atlanta",
+    "homeAway": "home",
+    "score": "114"
+   },
+   {
+    "abbr": "CLE",
+    "name": "Cleveland Cavaliers",
+    "location": "Cleveland",
+    "homeAway": "away",
+    "score": "111"
+   }
+  ]
+ },
+ {
+  "id": "401909894",
+  "date_utc": "2026-10-30T00:00Z",
+  "name": "Sacramento Kings at New Orleans Pelicans",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "NO",
+    "name": "New Orleans Pelicans",
+    "location": "New Orleans",
+    "homeAway": "home",
+    "score": "132"
+   },
+   {
+    "abbr": "SAC",
+    "name": "Sacramento Kings",
+    "location": "Sacramento",
+    "homeAway": "away",
+    "score": "120"
+   }
+  ]
+ },
+ {
+  "id": "401909895",
+  "date_utc": "2026-10-30T02:00Z",
+  "name": "Memphis Grizzlies at Portland Trail Blazers",
+  "status": "STATUS_FINAL",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "POR",
+    "name": "Portland Trail Blazers",
+    "location": "Portland",
+    "homeAway": "home",
+    "score": "103"
+   },
+   {
+    "abbr": "MEM",
+    "name": "Memphis Grizzlies",
+    "location": "Memphis",
+    "homeAway": "away",
+    "score": "124"
+   }
+  ]
+ },
+ {
+  "id": "401909277",
+  "date_utc": "2026-10-30T23:00Z",
+  "name": "Charlotte Hornets at Washington Wizards",
+  "status": "STATUS_SCHEDULED",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "WSH",
+    "name": "Washington Wizards",
+    "location": "Washington",
+    "homeAway": "home",
+    "score": "0"
+   },
+   {
+    "abbr": "CHA",
+    "name": "Charlotte Hornets",
+    "location": "Charlotte",
+    "homeAway": "away",
+    "score": "0"
+   }
+  ]
+ },
+ {
+  "id": "401909278",
+  "date_utc": "2026-10-30T23:30Z",
+  "name": "Chicago Bulls at Boston Celtics",
+  "status": "STATUS_SCHEDULED",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "BOS",
+    "name": "Boston Celtics",
+    "location": "Boston",
+    "homeAway": "home",
+    "score": "0"
+   },
+   {
+    "abbr": "CHI",
+    "name": "Chicago Bulls",
+    "location": "Chicago",
+    "homeAway": "away",
+    "score": "0"
+   }
+  ]
+ },
+ {
+  "id": "401909279",
+  "date_utc": "2026-10-30T23:30Z",
+  "name": "Detroit Pistons at Brooklyn Nets",
+  "status": "STATUS_SCHEDULED",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "BKN",
+    "name": "Brooklyn Nets",
+    "location": "Brooklyn",
+    "homeAway": "home",
+    "score": "0"
+   },
+   {
+    "abbr": "DET",
+    "name": "Detroit Pistons",
+    "location": "Detroit",
+    "homeAway": "away",
+    "score": "0"
+   }
+  ]
+ },
+ {
+  "id": "401909280",
+  "date_utc": "2026-10-30T23:30Z",
+  "name": "New York Knicks at Philadelphia 76ers",
+  "status": "STATUS_SCHEDULED",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "PHI",
+    "name": "Philadelphia 76ers",
+    "location": "Philadelphia",
+    "homeAway": "home",
+    "score": "0"
+   },
+   {
+    "abbr": "NY",
+    "name": "New York Knicks",
+    "location": "New York",
+    "homeAway": "away",
+    "score": "0"
+   }
+  ]
+ },
+ {
+  "id": "401909281",
+  "date_utc": "2026-10-30T23:30Z",
+  "name": "Orlando Magic at Toronto Raptors",
+  "status": "STATUS_SCHEDULED",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "TOR",
+    "name": "Toronto Raptors",
+    "location": "Toronto",
+    "homeAway": "home",
+    "score": "0"
+   },
+   {
+    "abbr": "ORL",
+    "name": "Orlando Magic",
+    "location": "Orlando",
+    "homeAway": "away",
+    "score": "0"
+   }
+  ]
+ },
+ {
+  "id": "401909282",
+  "date_utc": "2026-10-31T00:00Z",
+  "name": "Indiana Pacers at Miami Heat",
+  "status": "STATUS_SCHEDULED",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "MIA",
+    "name": "Miami Heat",
+    "location": "Miami",
+    "homeAway": "home",
+    "score": "0"
+   },
+   {
+    "abbr": "IND",
+    "name": "Indiana Pacers",
+    "location": "Indiana",
+    "homeAway": "away",
+    "score": "0"
+   }
+  ]
+ },
+ {
+  "id": "401909283",
+  "date_utc": "2026-10-31T00:00Z",
+  "name": "Houston Rockets at Dallas Mavericks",
+  "status": "STATUS_SCHEDULED",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "DAL",
+    "name": "Dallas Mavericks",
+    "location": "Dallas",
+    "homeAway": "home",
+    "score": "0"
+   },
+   {
+    "abbr": "HOU",
+    "name": "Houston Rockets",
+    "location": "Houston",
+    "homeAway": "away",
+    "score": "0"
+   }
+  ]
+ },
+ {
+  "id": "401909284",
+  "date_utc": "2026-10-31T00:00Z",
+  "name": "LA Clippers at Minnesota Timberwolves",
+  "status": "STATUS_SCHEDULED",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "MIN",
+    "name": "Minnesota Timberwolves",
+    "location": "Minnesota",
+    "homeAway": "home",
+    "score": "0"
+   },
+   {
+    "abbr": "LAC",
+    "name": "LA Clippers",
+    "location": "LA",
+    "homeAway": "away",
+    "score": "0"
+   }
+  ]
+ },
+ {
+  "id": "401909285",
+  "date_utc": "2026-10-31T02:00Z",
+  "name": "Los Angeles Lakers at Golden State Warriors",
+  "status": "STATUS_SCHEDULED",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "GS",
+    "name": "Golden State Warriors",
+    "location": "Golden State",
+    "homeAway": "home",
+    "score": "0"
+   },
+   {
+    "abbr": "LAL",
+    "name": "Los Angeles Lakers",
+    "location": "Los Angeles",
+    "homeAway": "away",
+    "score": "0"
+   }
+  ]
+ },
+ {
+  "id": "401909286",
+  "date_utc": "2026-10-31T02:00Z",
+  "name": "Denver Nuggets at Phoenix Suns",
+  "status": "STATUS_SCHEDULED",
+  "season_type": 2,
+  "teams": [
+   {
+    "abbr": "PHX",
+    "name": "Phoenix Suns",
+    "location": "Phoenix",
+    "homeAway": "home",
+    "score": "0"
+   },
+   {
+    "abbr": "DEN",
+    "name": "Denver Nuggets",
+    "location": "Denver",
+    "homeAway": "away",
+    "score": "0"
+   }
+  ]
+ }
+]
