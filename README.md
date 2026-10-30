@@ -1,4 +1,4 @@
-# kalshi_nba_props
+# kalshi_nba_point_props
 
 NBA player-points ladder (Kalshi series `KXNBAPTS`) joined to ESPN per-quarter scoring,
 for the 2026-27 season. Question under study: are the ladders mispriced at the end of
