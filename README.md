@@ -8,8 +8,8 @@ Q1/Q2/Q3 for high-usage scorers (minute projections off)?
 - `ladder_by_quarter.csv` - one row per Kalshi market (player x strike). Columns:
   game/date/teams, `strike` (floor, e.g. 19.5 = "20+"), `result`, player's points per
   quarter (`q1_pts..q4_pts`, `ot_pts`, `thru_q1..thru_q3`, `final_pts`, `minutes`),
-  and Kalshi yes bid/ask/mid/last-trade at: pregame (`pre_*`, bar ending 1 min before
-  tip), end of each quarter (`qN_*` = bar covering the final-play wallclock;
+  and Kalshi yes bid/ask/mid/last-trade at: pregame (`pre_*`, bar ending 60 min before
+  tip; `tip1m_*` is 1 min before tip, when makers have mostly pulled), end of each quarter (`qN_*` = bar covering the final-play wallclock;
   `qN_p2_*` = 2 min later, during the break, after repricing), and the last
   two-sided quote before the market closed (`final_live_*`). Prices in dollars (0-1).
 - `player_games.csv` - one row per player-game: quarter points, minutes, pregame
@@ -33,4 +33,6 @@ Q1/Q2/Q3 for high-usage scorers (minute projections off)?
 - `build_dataset.py` - joins the two into `out/`.  `summarize.py` - coverage + calibration.
 
 Times are UTC; `date_et` is the US/Eastern game date, which matches the Kalshi ticker date.
+Pregame is sampled 60 min before tip because the ladders are tightest there (median
+spread 2c at tip-1h, 92% within 5c) and widen sharply into tip (median 7c at tip-1m).
 Quarter-end times come from ESPN play wallclocks, which lag the live feed by seconds.

@@ -1,8 +1,8 @@
 """Join Kalshi KXNBAPTS ladder price history with ESPN per-quarter player scoring.
 
 Outputs (out/):
-  ladder_by_quarter.csv   one row per market (player x strike): pregame and end-of-Q1/Q2/Q3/
-                          Q4 yes bid/ask/mid, player's points by quarter, result.
+  ladder_by_quarter.csv   one row per market (player x strike): pregame (tip-60min; tip-1min as tip1m_*)
+                          and end-of-Q1/Q2/Q3/Q4 yes bid/ask/mid, player's points by quarter, result.
   player_games.csv        one row per player-game: quarter points, minutes, pregame ladder
                           mids and a crude ladder-implied projection.
   unmatched.txt           Kalshi markets that could not be joined, with the reason.
@@ -150,9 +150,13 @@ def main():
                    "thru_q3": (q1 + q2 + q3) if inbox else None, "final_pts": r["box_pts"],
                    "n_periods": g["nper"], "tip_utc": g["tip"].isoformat(),
                    "market_open_utc": m["open_time"], "market_close_utc": m["close_time"]}
-            # pregame: bar ending at or before tip-60s
-            b, a, mid, last, vol = quote(bar_at(cands, g["tip"] - dt.timedelta(seconds=60)))
+            # pregame: bar ending at or before tip-60 MINUTES. Makers pull in the last ~30 min
+            # before tip (median spread 2c at tip-1h vs 7c at tip-1m), so the hour-out book is
+            # the representative pregame ladder. tip1m_* keeps the tip-minus-1-minute quote.
+            b, a, mid, last, vol = quote(bar_at(cands, g["tip"] - dt.timedelta(minutes=60)))
             row.update(pre_bid=b, pre_ask=a, pre_mid=mid, pre_last=last)
+            b, a, mid, last, vol = quote(bar_at(cands, g["tip"] - dt.timedelta(seconds=60)))
+            row.update(tip1m_bid=b, tip1m_ask=a, tip1m_mid=mid, tip1m_last=last)
             for n in (1, 2, 3, 4):
                 t = g["pend"].get(n)
                 row[f"q{n}_end_utc"] = t.isoformat() if t else None
